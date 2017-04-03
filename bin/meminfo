@@ -1,0 +1,2 @@
+#/usr/bin/env zsh
+read _ total used _ <<<$(free -m | grep Mem) ; echo "${used}/${total}"

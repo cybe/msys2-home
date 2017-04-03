@@ -1,0 +1,10 @@
+Transparency=off
+CursorType=block
+Columns=196
+Rows=70
+RightClickAction=paste
+BoldAsFont=no
+FontSmoothing=default
+FontHeight=10
+Term=xterm-256color
+Font=DejaVu Sans Mono for Powerline
